@@ -55,7 +55,7 @@ export default function Footer() {
         <li>
             <ArrowIcon />
             <p className="mb-4">
-        (c) Савва Волошин, savva.voloshin@gmail.com
+        (c) 2024, Савва Волошин, savva.voloshin@gmail.com
 
       </p>
         </li>
