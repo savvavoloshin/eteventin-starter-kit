@@ -46,7 +46,7 @@ html {
   width: 80%;
   max-width: 700px;
   cursor: pointer;
-  color:#47a3f3;
+  font-style: italic;
 }
 
 .anchor:hover {
