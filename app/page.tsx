@@ -64,9 +64,9 @@ export default function Page() {
 
       </p>
 
-      <div className="my-8">
+      {/* <div className="my-8">
         <BlogPosts />
-      </div>
+      </div> */}
     </section>
   )
 }
