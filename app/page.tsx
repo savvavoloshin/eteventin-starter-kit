@@ -6,7 +6,7 @@ export default function Page() {
     <section>
       <Image
               priority
-              src="/images/profile.jpg"
+              src="/img/eteventin/eteventin_1.png"
               height={144}
               width={144}
               alt=""
