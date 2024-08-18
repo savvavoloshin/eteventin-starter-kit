@@ -73,8 +73,8 @@ export default function Page() {
       <p className="mb-4">Вобщем, подобная гитара, действительно стоит около 20 т., но Константин заявлял "отличный, рабочий инструмент" - коей гитара не являлась: нет ладов, хрустят потенциометры, пропадает сигнал. Не ровный гриф.</p>
 
       <p className="mb-4">
-        В этом обьявлении некоторые детали:
-      <a href="https://www.avito.ru/bolshaya_izhora/muzykalnye_instrumenty/datchiki_humbucker_ft_pickups_4177080131"> датчики humbucker - ft pickups</a>.
+        В этом обьявлении некоторые детали: датчики
+      <a href="https://www.avito.ru/bolshaya_izhora/muzykalnye_instrumenty/datchiki_humbucker_ft_pickups_4177080131"> humbucker - ft pickups</a>.
       </p>
 
       
