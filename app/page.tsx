@@ -31,6 +31,9 @@ export default function Page() {
       <p className="mb-4">
         {`Кроме того, Станислав говорил, что машинки ему не очень-то и нужны, т.к. он работает на советских. При этом - отказался вернуть хотя бы одну машинку и предложил доплатить деньги (могу доплатить 10 000, больше не могу).`}
       </p>
+      
+      <br>
+      </br>
 
       
 
@@ -40,14 +43,14 @@ export default function Page() {
 
       <Image
               priority
-              src="/img/kobus/a2.png"
+              src="/img/kobus/a2.jpg"
               height={144}
               width={144}
               alt=""
             />
             <Image
               priority
-              src="/img/kobus/a1.png"
+              src="/img/kobus/a1.jpg"
               height={144}
               width={144}
               alt=""
