@@ -4,6 +4,9 @@ import Image from 'next/image';
 export default function Page() {
   return (
     <section>
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        Гравёр, охотник и косторез - Этевентин Станислав Викторович
+      </h1>
       <Image
               priority
               src="/img/eteventin/eteventin_1.png"
@@ -11,9 +14,6 @@ export default function Page() {
               width={144}
               alt=""
             />
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Гравёр, охотник и косторез - Этевентин Станислав Викторович
-      </h1>
       <p className="mb-4">
         {`Уэлен - край охотников, косторезов - не тронутый цивилизацией. Хотя, чего уж - тронутый. Да и не все - охотники.`}
       </p>
@@ -41,6 +41,9 @@ export default function Page() {
 
       
 
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        Музыкант, рокер: Кобус Константин
+      </h1>
       <Image
               priority
               src="/img/kobus/a2.jpg"
@@ -55,9 +58,6 @@ export default function Page() {
               width={144}
               alt=""
             />
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Музыкант, рокер: Кобус Константин
-      </h1>
       <p>
         В этом обьявлении некоторые детали:
       <a href="https://www.avito.ru/bolshaya_izhora/muzykalnye_instrumenty/datchiki_humbucker_ft_pickups_4177080131"> датчики humbucker - ft pickups</a>. А так, вообще, товарищь Константин продал не хорошую гитару, нахваливая её, что за такие деньги инструмент достойный. Умолчал, что ломался гриф ("я не знал, она на стене висела" - это при том, что он был другом Дмитрию и жил в соседнем подьезде. Не знал?). Сточенные лады, хрустящие потенциометры, "плоские" датчики - это решаемо, но сама конструкция деки - фанерный верх - вялое звучание, отсутствие "атаки" - никак не исправить. И Константин - профессиональный музыкант - рекомендовал мне сперва научиться "ездить", прежде чем говорить, что "сёдла" ржавые.
