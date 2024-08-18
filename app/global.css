@@ -33,6 +33,11 @@ html {
   min-width: 360px;
 }
 
+#hp {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
 .prose .anchor {
   @apply absolute invisible no-underline;
 

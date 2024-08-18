@@ -8,13 +8,6 @@ export default function Page() {
         Гравёр, охотник и косторез - Этевентин Станислав Викторович
       </h1>
 
-      <style>
-      #hp {
-    float: left;
-    margin: 0 15px 0 0;
-}
-    </style>
-
       <Image
               priority
               src="/img/eteventin/eteventin_1.png"
@@ -24,7 +17,7 @@ export default function Page() {
               id="hp"
             />
       <p className="mb-4">
-        {`Уэлен - край охотников, косторезов - не тронутый цивилизацией. Хотя, чего уж - тронутый. Да и не все - охотники.`}
+        {`Уэлен - край охотников, косторезов.`}
       </p>
 
       <p className="mb-4">
