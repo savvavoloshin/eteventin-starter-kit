@@ -57,6 +57,7 @@ export default function Page() {
               height={144}
               width={144}
               alt=""
+              id="hp"
             />
             <Image
               priority
@@ -64,6 +65,7 @@ export default function Page() {
               height={144}
               width={144}
               alt=""
+              id="hp"
             />
       <p className="mb-4">
         В этом обьявлении некоторые детали:
