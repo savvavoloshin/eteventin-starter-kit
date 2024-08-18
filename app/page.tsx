@@ -76,11 +76,6 @@ export default function Page() {
       {/* <div className="my-8">
         <BlogPosts />
       </div> */}
-
-<p className="mb-4">
-        (c) Савва Волошин, savva.voloshin@gmail.com
-
-      </p>
     </section>
   )
 }
