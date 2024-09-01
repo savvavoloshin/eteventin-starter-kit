@@ -11,8 +11,8 @@ export default function Page() {
       <Image
         priority
         src="/img/eteventin/eteventin_1.png"
-        height={144}
-        width={144}
+        height={240}
+        // width={144}
         alt=""
         id="hp"
       />
@@ -29,7 +29,7 @@ export default function Page() {
 <Image
         priority
         src="/img/eteventin/f1.jpg"
-        height={144}
+        height={240}
         width={144}
         alt=""
         id="hp"
@@ -43,7 +43,7 @@ export default function Page() {
       <Image
         priority
         src="/img/eteventin/f2.jpg"
-        height={144}
+        height={240}
         width={144}
         alt=""
         id="hp"
@@ -57,8 +57,8 @@ export default function Page() {
       <Image
         priority
         src="/img/eteventin/c1.jpg"
-        height={344}
-        width={144}
+        height={240}
+        // width={144}
         alt=""
         id="hp"
       />
@@ -88,16 +88,16 @@ export default function Page() {
       <Image
               priority
               src="/img/kobus/a2.jpg"
-              height={144}
-              width={144}
+              height={240}
+              // width={144}
               alt=""
               id="hp"
             />
             <Image
               priority
               src="/img/kobus/a1.jpg"
-              height={144}
-              width={144}
+              height={240}
+              // width={144}
               alt=""
               id="hp"
             />
@@ -107,8 +107,8 @@ export default function Page() {
        <Image
               priority
               src="/img/kobus/b1.jpg"
-              height={144}
-              width={144}
+              height={240}
+              // width={144}
               alt=""
               id="hp"
             />
