@@ -1,4 +1,6 @@
-# Portfolio Blog Starter
+# Мои обидки (на основе Portfolio Blog Starter)
+
+С рабочей версией ознакомьтесь по адресу: https://www.eteventin-engraver.ru/
 
 This is a porfolio site template complete with a blog. Includes:
 
