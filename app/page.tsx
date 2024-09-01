@@ -12,7 +12,7 @@ export default function Page() {
         priority
         src="/img/eteventin/eteventin_1.png"
         height={240}
-        // width={144}
+        width={240}
         alt=""
         id="hp"
       />
@@ -30,7 +30,7 @@ export default function Page() {
         priority
         src="/img/eteventin/f1.jpg"
         height={240}
-        width={144}
+        width={240}
         alt=""
         id="hp"
 />
@@ -44,7 +44,7 @@ export default function Page() {
         priority
         src="/img/eteventin/f2.jpg"
         height={240}
-        width={144}
+        width={240}
         alt=""
         id="hp"
       />
@@ -58,7 +58,7 @@ export default function Page() {
         priority
         src="/img/eteventin/c1.jpg"
         height={240}
-        // width={144}
+        width={240}
         alt=""
         id="hp"
       />
@@ -89,7 +89,7 @@ export default function Page() {
               priority
               src="/img/kobus/a2.jpg"
               height={240}
-              // width={144}
+              width={240}
               alt=""
               id="hp"
             />
@@ -97,7 +97,7 @@ export default function Page() {
               priority
               src="/img/kobus/a1.jpg"
               height={240}
-              // width={144}
+              width={240}
               alt=""
               id="hp"
             />
@@ -108,7 +108,7 @@ export default function Page() {
               priority
               src="/img/kobus/b1.jpg"
               height={240}
-              // width={144}
+              width={240}
               alt=""
               id="hp"
             />
