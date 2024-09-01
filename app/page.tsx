@@ -75,12 +75,12 @@ export default function Page() {
       </br>
       <br>
       </br>
-
-      
-
-      
-
-      
+      <br>
+      </br>
+      <br>
+      </br>
+      <br>
+      </br>
 
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Музыкант, рокер: Кобус Константин
