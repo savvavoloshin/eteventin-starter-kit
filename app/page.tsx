@@ -7,10 +7,6 @@ export default function Page() {
 
 
     <section>
-    <Head>
-        <title>My page title</title>
-        <meta property="og:title" content="My page title" key="title" />
-    </Head>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Гравёр, охотник и косторез - Этевентин Станислав Викторович
       </h1>
